@@ -7,6 +7,7 @@ menuBtn.onclick = () => {
     menuBar.classList.toggle('active');
 
 }
+
 window.onscroll = () => {
 
     menuBtn.classList.remove('bx-x');
