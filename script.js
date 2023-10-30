@@ -8,7 +8,6 @@ menuBtn.onclick = () => {
 
 }
 
-
 window.onscroll = () => {
 
     menuBtn.classList.remove('bx-x');
