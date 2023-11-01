@@ -24,3 +24,4 @@ ScrollReveal({
 ScrollReveal().reveal('.home-bio h1', { origin:'left'});
 ScrollReveal().reveal('.home-bio p', { origin: 'right'});
 
+
